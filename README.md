@@ -8,10 +8,10 @@ and AMZN.
 
 Install BeautifulSoup4:
 ``` bash
-pip install beautifulsoup4
+pip install bs4
 ```
 
 Run:
 ``` bash
-python3 current_stock_prices.py
+python3 stock_price_scanner.py
 ```
