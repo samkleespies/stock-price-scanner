@@ -13,5 +13,5 @@ pip install bs4
 
 Run:
 ``` bash
-python3 stock_price_scanner.py
+python stock_price_scanner.py
 ```
