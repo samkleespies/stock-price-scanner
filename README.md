@@ -6,7 +6,12 @@
 This script will scrape the current stock prices for BABA, MOMO,
 and AMZN.
 
-Run in the terminal:
+Install BeautifulSoup4:
+``` bash
+pip install beautifulsoup4
+```
+
+Run:
 ``` bash
 python3 current_stock_prices.py
 ```
