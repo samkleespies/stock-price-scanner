@@ -17,7 +17,7 @@ while flux[i] != ' ':
     i += 1;
 
 print("Current price of BABA:   ", baba)
-print("Yeserday's price of BABA:", baba + float(net_change))
+print("Yesterday's price of BABA:", baba - float(net_change))
 print("Change since yesterday:  ", soup.find('td', attrs={'class': 'value-change'}).string)
 
 
